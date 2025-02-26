@@ -59,3 +59,13 @@ Solution: Ensure all input fields are filled before submitting the form. Modify 
 
 user_input = [float(x) if x.strip() else 0.0 for x in user_input]
 
+**Snap Shoots**
+
+![Screenshot 2025-02-27 021342](https://github.com/user-attachments/assets/58489401-4fb6-4026-9f6a-d9663952b924)
+
+![Screenshot 2025-02-27 021355](https://github.com/user-attachments/assets/aae1d595-c197-4511-8419-6e14d11d9627)
+
+![Screenshot 2025-02-27 021406](https://github.com/user-attachments/assets/e2233131-f461-4352-8350-37aa72bdb1f5)
+
+
+
