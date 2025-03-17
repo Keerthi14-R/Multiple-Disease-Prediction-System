@@ -6,6 +6,7 @@
 The Multiple Disease Prediction System is a web application developed using Streamlit that enables users to predict the likelihood of having Diabetes, Heart Disease, and Parkinson's Disease using trained machine learning models. The system takes user input, processes the data, and provides predictions based on pre-trained models.
 
 **Features**
+
 Diabetes Prediction: Predicts if a person has diabetes based on medical input parameters.
 Heart Disease Prediction: Determines the likelihood of heart disease using patient-specific parameters.
 Parkinson's Disease Prediction: Identifies Parkinson's disease based on voice and medical parameters.
