@@ -37,6 +37,7 @@ streamlit run Multiple_Disease_Prediction.py
 
 **Project Structure**
 
+"""
 Multiple Disease Prediction System/
 │-- saved_models/
 │   ├── diabetes_model.sav
@@ -44,6 +45,7 @@ Multiple Disease Prediction System/
 │   ├── parkinsons_model.sav
 │-- Multiple_Disease_Prediction.py
 │-- README.md
+"""
 
 **How It Works**
 
