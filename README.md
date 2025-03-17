@@ -40,17 +40,17 @@ streamlit run Multiple_Disease_Prediction.py
 
 
 Multiple Disease Prediction System/
-
+|
 │-- saved_models/
-
+|   |
 │   ├── diabetes_model.sav
-
+|   |
 │   ├── heart_disease_model.sav
-
+|   |
 │   ├── parkinsons_model.sav
-
+|
 │-- Multiple_Disease_Prediction.py
-
+|
 │-- README.md
 
 
